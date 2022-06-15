@@ -14,4 +14,6 @@ Gods covers below:
   - Quick sort
 
 ## Usage
-```go get -u github.com/real-rock/```
+```shell
+go get -u github.com/real-rock/gods
+```
